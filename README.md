@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Ehab.;Flutter+%7C+Java+Developer.;Problem+Solver+%7C+Gamer+%7C+Tech+Nerd." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Ehab.;Flutter+%7C+Java+Developer.;Problem+Solver+%7CTech+Nerd." alt="Typing SVG" />
 
 ---
 
