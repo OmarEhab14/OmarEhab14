@@ -32,7 +32,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=OmarEhab14&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadRawash&layout=compact&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarEhab14&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
