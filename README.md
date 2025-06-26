@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://i.pinimg.com/originals/61/72/49/6172499581ae4a88280a26521d5992d8.gif" width="400" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=OmarEhab14&style=flat-square&color=brightgreen" alt="Profile views"/>
 </div>
