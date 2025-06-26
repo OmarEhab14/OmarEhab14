@@ -3,14 +3,13 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/2hAEwJZ.gif" width="200" />
+  <img src="[https://i.imgur.com/2hAEwJZ.gif](https://i.imgur.com/P7plYPb.gif)" width="200" />
 </div>
 
 ---
 
 ### 🧠 About Me
-- 💻 Flutter & Java Developer | 🎮 RPG Game Creator  
-- 🔍 Clean Architecture, AR, Secure Auth, Firebase  
+- 💻 Flutter & Java Developer
 - 🧩 Passionate about solving real-world problems
 
 ---
@@ -42,10 +41,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🌦️ Weather App](https://github.com/OmarEhab14/WeatherApp) | Real-time weather, location-based, notifications | Flutter, OpenWeather API |
-| [🧙 RPG Game](https://github.com/OmarEhab14/RPG-Game) | Java 2D game engine with animations and AI | Java, OOP |
-| [🏥 Pharmacy System](https://github.com/OmarEhab14/Pharmacy-System) | Stock management + sales dashboard | Flutter, Firebase |
 | [🛍️ DripOut](https://github.com/OmarEhab14/DripOut) | Full e-commerce app with clean UI | Flutter, Clean Architecture |
+| [🛍️ ComputerController](https://github.com/OmarEhab14/computer_controller_app) | Realtime application to control your laptop wirelessly | Flutter, WebSockets |
 
 ---
 
