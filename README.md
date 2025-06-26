@@ -26,14 +26,17 @@
 
 ### 🔥 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarEhab14&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarEhab14&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=OmarEhab14&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarEhab14&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarEhab14&theme=tokyonight&no-frame=true&column=7" />
-</p>
 
 ---
 
