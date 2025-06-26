@@ -44,14 +44,14 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🛍️ DripOut](https://github.com/OmarEhab14/DripOut) | Full e-commerce app with clean UI | Flutter, Clean Architecture |
-| [🛍️ ComputerController](https://github.com/OmarEhab14/computer_controller_app) | Realtime application to control your laptop wirelessly | Flutter, WebSockets |
+| [DripOut](https://github.com/OmarEhab14/DripOut) | Full e-commerce app with clean UI | Flutter, Clean Architecture |
+| [ComputerController](https://github.com/OmarEhab14/computer_controller_app) | Realtime application to control your laptop wirelessly | Flutter, WebSockets |
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
 
