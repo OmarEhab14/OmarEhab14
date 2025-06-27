@@ -44,8 +44,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [DripOut](https://github.com/OmarEhab14/DripOut) | Full e-commerce app with clean UI | Flutter, Clean Architecture |
+| [DripOut](https://github.com/OmarEhab14/DripOut) | Full e-commerce app with clean UI | Flutter, Clean Architecture, API integration, Authentication |
 | [ComputerController](https://github.com/OmarEhab14/computer_controller_app) | Realtime application to control your laptop wirelessly | Flutter, WebSockets |
+| [Weather App](https://github.com/Abdallah-Ehab/weather-application-golden_wind-) | A feature-rich weather application that provides real-time weather information and forecasts. | Flutter, API integration, Clean Architecture, Impressive design |
 
 ---
 
